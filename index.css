@@ -4,7 +4,7 @@
     height:50vw;
     width:50vw;
     background:url('clock.png') no-repeat;
-    background-size:100%;
+    background-size:50% 50%;
     position:relative;
 }
 #hour,#minute,#second
